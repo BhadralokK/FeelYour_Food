@@ -1,0 +1,15 @@
+C:\Users\ATPL\source\repos\FeelUrFood\FeelUrFood\bin\Debug\FeelUrFood.exe.config
+C:\Users\ATPL\source\repos\FeelUrFood\FeelUrFood\bin\Debug\FeelUrFood.exe
+C:\Users\ATPL\source\repos\FeelUrFood\FeelUrFood\bin\Debug\FeelUrFood.pdb
+C:\Users\ATPL\source\repos\FeelUrFood\FeelUrFood\obj\Debug\FeelUrFood.csproj.AssemblyReference.cache
+C:\Users\ATPL\source\repos\FeelUrFood\FeelUrFood\obj\Debug\FeelUrFood.frmCheckStatusPing.resources
+C:\Users\ATPL\source\repos\FeelUrFood\FeelUrFood\obj\Debug\FeelUrFood.frmLoginPage.resources
+C:\Users\ATPL\source\repos\FeelUrFood\FeelUrFood\obj\Debug\FeelUrFood.frmMainDashboard.resources
+C:\Users\ATPL\source\repos\FeelUrFood\FeelUrFood\obj\Debug\FeelUrFood.frmOperations.resources
+C:\Users\ATPL\source\repos\FeelUrFood\FeelUrFood\obj\Debug\FeelUrFood.frmSettings.resources
+C:\Users\ATPL\source\repos\FeelUrFood\FeelUrFood\obj\Debug\FeelUrFood.Properties.Resources.resources
+C:\Users\ATPL\source\repos\FeelUrFood\FeelUrFood\obj\Debug\FeelUrFood.csproj.GenerateResource.cache
+C:\Users\ATPL\source\repos\FeelUrFood\FeelUrFood\obj\Debug\FeelUrFood.csproj.CoreCompileInputs.cache
+C:\Users\ATPL\source\repos\FeelUrFood\FeelUrFood\obj\Debug\FeelUrFood.exe
+C:\Users\ATPL\source\repos\FeelUrFood\FeelUrFood\obj\Debug\FeelUrFood.pdb
+C:\Users\ATPL\source\repos\FeelUrFood\FeelUrFood\obj\Debug\FeelUrFood.frmBilling.resources
